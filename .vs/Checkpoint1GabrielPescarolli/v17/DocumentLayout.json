@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\briel\\source\\repos\\Checkpoint1GabrielPescarolli\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69F7F0A6-02AD-471B-BC3C-E655474A35BB}|Checkpoint1GabrielPescarolli.csproj|c:\\users\\briel\\source\\repos\\checkpoint1gabrielpescarolli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F7F0A6-02AD-471B-BC3C-E655474A35BB}|Checkpoint1GabrielPescarolli.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F7F0A6-02AD-471B-BC3C-E655474A35BB}|Checkpoint1GabrielPescarolli.csproj|c:\\users\\briel\\source\\repos\\checkpoint1gabrielpescarolli\\persistence\\checkpointdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F7F0A6-02AD-471B-BC3C-E655474A35BB}|Checkpoint1GabrielPescarolli.csproj|solutionrelative:persistence\\checkpointdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F7F0A6-02AD-471B-BC3C-E655474A35BB}|Checkpoint1GabrielPescarolli.csproj|c:\\users\\briel\\source\\repos\\checkpoint1gabrielpescarolli\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F7F0A6-02AD-471B-BC3C-E655474A35BB}|Checkpoint1GabrielPescarolli.csproj|solutionrelative:models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F7F0A6-02AD-471B-BC3C-E655474A35BB}|Checkpoint1GabrielPescarolli.csproj|c:\\users\\briel\\source\\repos\\checkpoint1gabrielpescarolli\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F7F0A6-02AD-471B-BC3C-E655474A35BB}|Checkpoint1GabrielPescarolli.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F7F0A6-02AD-471B-BC3C-E655474A35BB}|Checkpoint1GabrielPescarolli.csproj|c:\\users\\briel\\source\\repos\\checkpoint1gabrielpescarolli\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69F7F0A6-02AD-471B-BC3C-E655474A35BB}|Checkpoint1GabrielPescarolli.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F7F0A6-02AD-471B-BC3C-E655474A35BB}|Checkpoint1GabrielPescarolli.csproj|c:\\users\\briel\\source\\repos\\checkpoint1gabrielpescarolli\\models\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F7F0A6-02AD-471B-BC3C-E655474A35BB}|Checkpoint1GabrielPescarolli.csproj|solutionrelative:models\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F7F0A6-02AD-471B-BC3C-E655474A35BB}|Checkpoint1GabrielPescarolli.csproj|c:\\users\\briel\\source\\repos\\checkpoint1gabrielpescarolli\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F7F0A6-02AD-471B-BC3C-E655474A35BB}|Checkpoint1GabrielPescarolli.csproj|solutionrelative:models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckpointDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\briel\\source\\repos\\Checkpoint1GabrielPescarolli\\Persistence\\CheckpointDbContext.cs",
+              "RelativeDocumentMoniker": "Persistence\\CheckpointDbContext.cs",
+              "ToolTip": "C:\\Users\\briel\\source\\repos\\Checkpoint1GabrielPescarolli\\Persistence\\CheckpointDbContext.cs",
+              "RelativeToolTip": "Persistence\\CheckpointDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:41:33.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\briel\\source\\repos\\Checkpoint1GabrielPescarolli\\Models\\Endereco.cs",
+              "RelativeDocumentMoniker": "Models\\Endereco.cs",
+              "ToolTip": "C:\\Users\\briel\\source\\repos\\Checkpoint1GabrielPescarolli\\Models\\Endereco.cs",
+              "RelativeToolTip": "Models\\Endereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:38:45.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\briel\\source\\repos\\Checkpoint1GabrielPescarolli\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\briel\\source\\repos\\Checkpoint1GabrielPescarolli\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:38:41.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\briel\\source\\repos\\Checkpoint1GabrielPescarolli\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\briel\\source\\repos\\Checkpoint1GabrielPescarolli\\Models\\Pedido.cs",
+              "RelativeToolTip": "Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:38:39.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Jogo.cs",
+              "DocumentMoniker": "C:\\Users\\briel\\source\\repos\\Checkpoint1GabrielPescarolli\\Models\\Jogo.cs",
+              "RelativeDocumentMoniker": "Models\\Jogo.cs",
+              "ToolTip": "C:\\Users\\briel\\source\\repos\\Checkpoint1GabrielPescarolli\\Models\\Jogo.cs",
+              "RelativeToolTip": "Models\\Jogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:38:36.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\briel\\source\\repos\\Checkpoint1GabrielPescarolli\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\briel\\source\\repos\\Checkpoint1GabrielPescarolli\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T12:02:41.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\briel\\source\\repos\\Checkpoint1GabrielPescarolli\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\briel\\source\\repos\\Checkpoint1GabrielPescarolli\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:16:54.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
